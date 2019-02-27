@@ -1,0 +1,9 @@
+#激活邮件链接的有效时间：s
+
+VERIFY_EMAIL_TOKEN_EXPIRES = 72000
+# 用户添加收货地址的最大数量
+USER_ADDRESS_COUNTS_LIMIT = 20
+
+
+# 指定用户历史浏览记录保存条目数
+USER_BROWSING_HISTORY_COUNTS_LIMIT = 5
